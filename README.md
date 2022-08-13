@@ -6,4 +6,4 @@ Pré-requisitos
 ==============
 * Ter o banco de dados SQL Server Express instalado na máquina;
 * Criar um novo database com o nome CRUD (dentro da pasta db/ existe um script que cria o banco caso ache mais prático [CRUD.sql]);
-* No banco CRUD, executar o scritp CLIENTES.sql para criar a tabela necessária;
+* No banco CRUD, executar o scritp CLIENTES.sql, que está na pasta db/, para criar a tabela necessária;
